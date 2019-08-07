@@ -7,7 +7,7 @@
     <link href="/static/bootstrap.min.css" rel="stylesheet">
     <link href="/static/index.css" rel="stylesheet">
     <link href="/static/intlTelInput.min.css" rel="stylesheet">
-    <title>b0mb3r 💣</title>
+    <title>bamber 💣</title>
 </head>
 <body>
 <div id="block-ui">
@@ -15,7 +15,7 @@
 </div>
 
 <div id="main">
-    <h1 class="no-select">b0mb3r 💣</h1>
+    <h1 class="no-select">bamber 💣</h1>
     <p class="lead" id="sms">Доступно SMS-сервисов: <span
             class="badge badge-pill badge-primary no-select">{{sms}}</span></p>
     <form action="/sms" id="phone-form" method="post">
@@ -66,7 +66,7 @@
     $(document).ready(function () {
         tip.innerHTML = 'Совет: ' + tips[Math.random() * tips.length >> 0];
         intltelinput = intlTelInput(input, {
-            onlyCountries: ['ru', 'ua', 'kz', 'by' 'AZE'],
+            onlyCountries: ['ru', 'ua', 'kz', 'by', 'aze'],
             initialCountry: 'ru',
         });
     });
