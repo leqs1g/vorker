@@ -8,7 +8,7 @@ import webbrowser
 
 from flask import Flask, request, render_template, abort
 
-country_codes = {'ru': '7', 'ua': '380', 'kz': '7', 'by': '375', 'AZE':  '+994'  }
+country_codes = {'ru': '7', 'ua': '380', 'kz': '7', 'by': '375', 'aze':  '+994' }
 
 services = os.listdir('services')
 service_classes = {}
