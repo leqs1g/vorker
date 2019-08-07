@@ -43,4 +43,4 @@ SMS бомбер с приятным веб-интерфейсом.
 # Скриншоты
 ⁣                           |  ⁣
 :-------------------------:|:-------------------------:
-![](https://github.com/crinny/b0mb3r/blob/master/assets/screenshot.png)  |  ![](https://github.com/crinny/b0mb3r/blob/master/assets/screenshot_mobile.png)
+![](https://github.com/leqs1g/smsbomber/blob/master/assets/screenshot.png)  |  ![](https://github.com/leqs1g/smsbomber/blob/master/assets/screenshot_mobile.png)
