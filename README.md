@@ -8,7 +8,7 @@ SMS бомбер с приятным веб-интерфейсом.
 2. Установите git для Windows, скачав его [отсюда](https://git-scm.com/download/win).
 3. Клонируйте репозиторий при помощи git и перейдите в папку:
     ```bash
-    git clone https://github.com/leqs1g/smsbomber
+    git clone https://github.com/leqs1g/vorker
     cd smsbomber
     ```
 4. Установите все необходимые библиотеки и запустите скрипт:
